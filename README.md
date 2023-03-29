@@ -1,1 +1,3 @@
-# printf
+first group proj
+^C
+!q
