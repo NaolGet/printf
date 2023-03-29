@@ -1,3 +1,1 @@
-first group proj
-^C
-!q
+Printf group project 
